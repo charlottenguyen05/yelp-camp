@@ -1,9 +1,4 @@
-const express = require('express');
-const router = express.Router({ mergeParams: true });
-const wrapAsync = require('../utilities/wrapAsync');
 const User = require('../models/user');
-const passport = require('passport')
-const { storeReturnTo, validateUser } = require('../utilities/middleware')
 
 module.exports.renderRegister = (req, res) => {
     res.render('users/register.ejs')

@@ -1,8 +1,5 @@
 const express = require('express');
 const router = express.Router({ mergeParams: true });
-const { Reviewschema } = require('../validateSchema');  // {} Import named export
-const Review = require('../models/review');
-const Campground = require('../models/campground');
 const wrapAsync = require('../utilities/wrapAsync');
 const { isLoggedIn, isAuthReview, validateReview } = require('../utilities/middleware')
 const reviews = require('../controllers/reviews')

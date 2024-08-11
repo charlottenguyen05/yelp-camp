@@ -1,6 +1,4 @@
 const express = require('express');
-const { STATUS_CODES } = require('http');
-const app = express();
 
 class AppError extends Error {
     constructor(message, statusCode) {

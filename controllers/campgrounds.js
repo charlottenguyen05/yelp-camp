@@ -1,7 +1,6 @@
 const Campground = require('../models/campground');
 const { cloudinary } = require('../config/multerConfig')
 const { config, geocoding } = require('@maptiler/client');
-const { query } = require('express');
 config.apiKey = process.env.MAPTILER_API_KEY;
 
 module.exports.index = async (req, res) => {

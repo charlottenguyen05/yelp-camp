@@ -72,7 +72,7 @@ module.exports = (app) => {
             workerSrc: ["'self'", "blob:"],
             imgSrc: [
                 "'self'",
-                "'blob'",
+                "blob:",
                 "data:",
                 "https://api.maptiler.com/",
                 "https://images.unsplash.com/",
@@ -82,12 +82,5 @@ module.exports = (app) => {
         }
     }));
     
-    // --- PASS LOCALS PARAMS TO THE EJS FILE --- 
-    app.use((req, res, next) => {
-        res.locals.currentUser = req.user  // RETRIEVE INFORMATION OF CURRENTLY LOGGED IN USER
-        res.locals.success = req.flash('success')
-        res.locals.error = req.flash('error')
-        next()
-    })
 }
 

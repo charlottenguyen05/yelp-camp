@@ -1,8 +1,5 @@
 const mongoose = require('mongoose');
 const Review = require('./review');
-const review = require('./review');
-const { required } = require('joi');
-const { coordinates } = require('@maptiler/client');
 const Schema = mongoose.Schema;
 
 // Include virtuals when convert to JSON

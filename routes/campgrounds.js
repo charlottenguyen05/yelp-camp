@@ -1,8 +1,5 @@
 const express = require('express');
 const router = express.Router({ mergeParams: true });
-const multer = require('multer');
-const path = require('path')
-const Campground = require('../models/campground');
 const wrapAsync = require('../utilities/wrapAsync');
 const { isLoggedIn, isAuthCamp, validateCampground } = require('../utilities/middleware')
 const campgrounds = require('../controllers/campgrounds')
