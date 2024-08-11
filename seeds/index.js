@@ -41,12 +41,12 @@ async function seedsDB() {
             description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam molestias eligendi laboriosam minima cupiditate eveniet quo asperiores. Natus, laudantium dolore. Sed accusantium illo quisquam dolorem! Ducimus, debitis veniam! Quae, sed?',
             images: [
                 {
-                    path: 'https://res.cloudinary.com/drtfkcy87/image/upload/v1722584638/YelpCamp/accer9fegrwxedkd3nql.jpg',
-                    filename: 'YelpCamp/accer9fegrwxedkd3nql'
+                    path: 'https://res.cloudinary.com/drtfkcy87/image/upload/v1722590532/YelpCamp/khcbngdp4aeqiawcw3nm.jpg',
+                    filename: 'YelpCamp/khcbngdp4aeqiawcw3nm'
                 },
                 {
-                    path: 'https://res.cloudinary.com/drtfkcy87/image/upload/v1722584641/YelpCamp/cil6uz2ba6bmg1ml4pw4.jpg',
-                    filename: 'YelpCamp/cil6uz2ba6bmg1ml4pw4'
+                    path: 'https://res.cloudinary.com/drtfkcy87/image/upload/v1722585430/YelpCamp/my6bhu1ygzacdourmzkb.jpg',
+                    filename: 'YelpCamp/my6bhu1ygzacdourmzkb'
                 }
             ]
         })
