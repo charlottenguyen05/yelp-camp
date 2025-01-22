@@ -56,8 +56,7 @@ This project demonstrates key concepts in modern JavaScript development, databas
 
 ## Live Demo 🚀
 
-**[Check out the live demo here!](#)**  
-*(Replace the placeholder with your actual deployed URL.)*
+**[Check out the live demo here!](https://yelp-camp-50oe.onrender.com)**  
 
 ---
 
