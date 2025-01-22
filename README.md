@@ -4,7 +4,7 @@
 ![qlt](https://i.imgur.com/GPsYDtf.png)
 
 
-A full-stack RESTful application for campers to share campgrounds, comment on them, and explore camping sites all over the world. This project is inspired by the Web Developer Bootcamp curriculum in Udemy by Colt Steele.
+A full-stack RESTful application for campers to share campgrounds, comment on them, and explore camping sites all over the world. 
 
 
 ## 📋 Table of Contents
