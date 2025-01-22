@@ -6,16 +6,16 @@ A full-stack RESTful application for campers to share campgrounds, comment on th
 
 ## 📋 Table of Contents
 - [Introduction](#introduction)
-- [Features](#features-✨)
-- [Live Demo](#live-demo-🚀)
-- [Technologies Used](#technologies-used-🛠)
-- [Installation](#installation-💻)
-- [Usage](#usage-📱)
-- [Project Structure](#project-structure-📂)
-- [Roadmap](#roadmap-🗺)
-- [Contributing](#contributing-🤝)
-- [License](#license-📑)
-- [Acknowledgments](#acknowledgments-🙏)
+- [Features](#features-)
+- [Live Demo](#live-demo-)
+- [Technologies Used](#technologies-used-)
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [Project Structure](#project-structure-)
+- [Roadmap](#roadmap-)
+- [Contributing](#contributing-)
+- [License](#license-)
+- [Acknowledgments](#acknowledgments-)
 
 ---
 
