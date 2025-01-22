@@ -1,6 +1,9 @@
 # YelpCamp 🏕️
 
 
+![qlt](https://i.imgur.com/GPsYDtf.png)
+
+
 A full-stack RESTful application for campers to share campgrounds, comment on them, and explore camping sites all over the world. This project is inspired by the Web Developer Bootcamp curriculum in Udemy by Colt Steele.
 
 
@@ -34,7 +37,7 @@ This project demonstrates key concepts in modern JavaScript development, databas
 
 ## Features ✨
 
-- **User Authentication**  
+- **User Authentication**
   🔒 Register and log in using [Passport.js](http://www.passportjs.org/).
 
 - **RESTful Routes**  
@@ -123,16 +126,26 @@ This project demonstrates key concepts in modern JavaScript development, databas
 
 1. **Create an Account**  
    Sign up for a new account or log in if you already have one.
+   
+   ![qlt](https://i.imgur.com/GlmYT0V.png)
 
+---
 2. **Add Campgrounds**  
    Click on **New Campground** to add your own campground with an image, location, and description.
+   
+  ![qlt](https://i.imgur.com/J7DEHMj.png)
 
+---
 3. **Write Reviews**  
    Leave reviews for campgrounds you have visited. Update or delete them as needed.
 
+   ![qlt](https://i.imgur.com/J7DEHMj.png)
+---
 4. **Manage Your Listings**  
    Edit or delete your campgrounds and reviews at any time.
-
+    
+   ![qlt](https://i.imgur.com/KblWYXg.png)
+ 
 ---
 
 ## Project Structure 📂
